@@ -4,7 +4,7 @@ You can ask this app to make all your difficult decisions. Should I order a Beef
 
 <br />
 
-<img>
+<img height="500px" alt="screenshot" src="https://user-images.githubusercontent.com/39920490/111870362-a5515480-89c7-11eb-939e-3ba310dd1627.png">
 
 <br />
 
